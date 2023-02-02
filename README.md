@@ -1,6 +1,15 @@
 # Castillo's Project
-Subject reviewer not only for students but also for teachers
-# Authors
+In this activity I'll be putting the hello world code as per instruction
+## Authors
 @castilloflorence
-# Sample Code
-printf( 'Hello World!' );
+### Sample Code
+
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    printf("Hello world");
+
+    return 0;
+}
+
