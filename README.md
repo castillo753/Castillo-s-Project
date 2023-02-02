@@ -1,7 +1,7 @@
 # Castillo's Project
 In this activity I'll be putting the hello world code as per instruction
 ## Authors
-@castilloflorence
+-@castilloflorence
 ### Sample Code
 
 #include <stdio.h>
@@ -12,3 +12,5 @@ int main() {
 
     return 0;
 }
+### How to Install
+-Step 1: Download the zip file or use git clone
