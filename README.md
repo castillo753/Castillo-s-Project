@@ -18,3 +18,4 @@ int main() {
 commit 1
 
 ad.commit 1
+ad.commit 2
