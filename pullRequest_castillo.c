@@ -7,3 +7,11 @@ int main() {
     
     return 0;
 }
+
+// programmer 2. This part must be used for pull request -- borja
+
+int sum (int num1, int num2){
+	
+	return num1+num2;
+	
+}
